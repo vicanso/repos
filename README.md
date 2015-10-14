@@ -6,3 +6,5 @@
 - [koa-query-checker](https://github.com/vicanso/koa-query-checker) koa middlware，校验query string，如果非合法，则添加query之后重定向url。 `[维护中]`
 
 - [koa-query-sorter](https://github.com/vicanso/koa-query-sorter) koa middlware，将url中的query string重新排序整理。 `[维护中]`
+
+- [superagent-extend](https://github.com/vicanso/superagent-extend) extend superagent，扩展superagent，增加事件与interceptor的处理。 `[维护中]`
