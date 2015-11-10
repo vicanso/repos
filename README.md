@@ -7,4 +7,6 @@
 
 - [koa-query-sorter](https://github.com/vicanso/koa-query-sorter) koa middlware，将url中的query string重新排序整理。 `[维护中]`
 
+- [koa-static-serve](https://github.com/vicanso/koa-static-serve) koa middlware，静态文件处理库。 `[维护中]`
+
 - [superagent-extend](https://github.com/vicanso/superagent-extend) extend superagent，扩展superagent，增加事件与interceptor的处理。 `[维护中]`
